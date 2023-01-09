@@ -1,10 +1,10 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 resources:
-- ../../../variants/kla/dev
+- ../../../variants/tst
 - release.yaml
 
-namespace: kla-dev
+namespace: kla-tst
 
 patchesStrategicMerge:
 - release-patch.yaml
