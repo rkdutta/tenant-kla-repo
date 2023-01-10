@@ -4,7 +4,7 @@ resources:
 - ../../variants/dev
 #- release.yaml
 
-namespace: kla-dev
+#namespace: kla-dev
 
 # patchesStrategicMerge:
 # - release-patch.yaml
