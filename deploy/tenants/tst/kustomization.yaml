@@ -4,7 +4,7 @@ resources:
 - ../../../configs/promotables/tst
 - ../../base
 
-namespace: kla2-tst
+namespace: tenant-kla-tst
 
 patchesStrategicMerge:
 - version-patch.yaml
