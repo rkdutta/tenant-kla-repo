@@ -4,7 +4,7 @@ resources:
 - ../../../configs/promotables/dev
 - ../../base
 
-namespace: kla-dev
+#namespace: kla-dev
 
 patchesStrategicMerge:
 - version-patch.yaml
