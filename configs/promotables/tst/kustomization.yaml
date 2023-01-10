@@ -4,7 +4,7 @@ resources:
 - ../../variants/tst
 #- release.yaml
 
-namespace: kla-tst
+#namespace: kla-tst
 
 # patchesStrategicMerge:
 # - release-patch.yaml

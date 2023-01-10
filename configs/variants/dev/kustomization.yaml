@@ -4,7 +4,7 @@ kind: Kustomization
 resources:
 - ../../commons
 
-namespace: kla-dev
+#namespace: kla-dev
 
 configMapGenerator:
 - behavior: merge
